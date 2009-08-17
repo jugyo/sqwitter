@@ -1,8 +1,8 @@
-Switter
+Sqwitter
 ========
-[http://github.com/jugyo/switter/tree/master](http://github.com/jugyo/switter/tree/master)
+[http://github.com/jugyo/sqwitter/tree/master](http://github.com/jugyo/sqwitter/tree/master)
 
 Description
 --------
 
-Switter is a twitter client in Squeak.
+Sqwitter is a twitter client in Squeak.
